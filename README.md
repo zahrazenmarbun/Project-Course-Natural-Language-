@@ -8,4 +8,4 @@ perangkat lunak:
 
 *2.Jupyter*
 
-Author: **Zahra**
+Nama: **Zahra**
